@@ -226,4 +226,10 @@ td {
   .test {
     text-wrap: wrap;
   }
+  .theback > p {
+    font-weight: 600;
+    text-align: justify;
+    font-size: 10px;
+    margin: 20px;
+  }
 }
